@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install)",
+      "Bash(npm run build)",
+      "Read(//c/Users/admin/AppData/Local/Temp/claude/c--Users-admin-Source-ai-sandpit-nemesis-demo/tasks/**)"
+    ],
+    "additionalDirectories": [
+      "C:\\Users\\admin\\.claude\\projects\\c--Users-admin-Source-ai-sandpit-nemesis-demo"
+    ]
+  }
+}
